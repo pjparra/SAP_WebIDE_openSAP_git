@@ -1,2 +1,2 @@
 # SAP_WebIDE_openSAP_git
-OpenSAP git course repository
+[OpenSAP](http://opensap.com) git course repository
